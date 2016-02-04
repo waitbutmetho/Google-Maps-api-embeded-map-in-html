@@ -1,0 +1,20 @@
+html, body {
+   height: 100%;
+   margin: 0;
+   padding: 0;
+  }
+
+#map {
+  border: solid 20px #7CB342;
+  border-radius: 10px;
+  height: 100%;
+}
+
+.mapArea {
+  height: 500px;
+  width: 500px;
+}
+
+.moveOntoBorder {
+
+}
